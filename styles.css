@@ -8,11 +8,11 @@ body {
 }
 
 header {
-    background: linear-gradient(90deg, #8e7f7d, #321d64); /* Gradient cam đỏ */
+    background: linear-gradient(90deg, #827d8e, #321d64); /* Gradient cam đỏ */
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 6px rgba(228, 222, 222, 0.2);
     text-transform: uppercase;
 }
 
@@ -29,7 +29,7 @@ header p {
 }
 
 nav {
-    background: #238e35; /* Màu cam nổi bật */
+    background: #eeefee; /* Màu cam nổi bật */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
